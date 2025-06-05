@@ -1,4 +1,4 @@
-# understanding-data
+# 📊 Understanding the Data
 
 As part of the initial phase of this project, I performed a detailed data understanding step to explore the structure, quality, and relationships within the dataset. Below are the key aspects analyzed:
 
